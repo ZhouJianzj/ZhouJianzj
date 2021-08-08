@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhouJianzj
-- 👀 I’m interested in java swing spring springMVC  springboot  mybaties  linux  dobble  zookeeper  redis  vue  ajax  axious  elementUI
+- 👀 I’m interested in java swing spring springMVC  springboot springsession spring eureka  ribbon feign  mybaties  linux  dobble  zookeeper  redis nginx  vue  ajax  axious  elementUI
 - 🌱 I’m currently learning  javase   springcould...  vue....   python..
 - 💞️ I’m looking to collaborate on study together 
 - 📫 How to reach me ...qq:2998390669  email .....@qq.com
